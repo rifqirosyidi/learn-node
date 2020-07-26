@@ -1,4 +1,4 @@
-const Person = require("./person");
+const Person = require("./references/person");
 
 const rifqi = new Person("Rifqi", 20);
 
